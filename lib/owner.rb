@@ -7,5 +7,3 @@ class Owner
   end 
 end
 
-
-kobe.new 
