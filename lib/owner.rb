@@ -1,3 +1,4 @@
 class Owner
-  # code goes here
+  def buy_cat(name)
+  end 
 end
